@@ -1,0 +1,1 @@
+# ProGuard rules for TicTacToe (empty for now)
